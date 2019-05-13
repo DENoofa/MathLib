@@ -1,0 +1,6 @@
+﻿  PipVector.cpp
+c:\users\s181358\builder\mathlab\mathlibrary\pipvector.cpp(32): error C2039: 'opeartor': is not a member of 'PipVec3D<PipV3D>::Vector3'
+  c:\users\s181358\builder\mathlab\mathlibrary\pipvector.cpp(18): note: see declaration of 'PipVec3D<PipV3D>::Vector3'
+  c:\users\s181358\builder\mathlab\mathlibrary\pipvector.cpp(52): note: see reference to class template instantiation 'PipVec3D<PipV3D>' being compiled
+c:\users\s181358\builder\mathlab\mathlibrary\pipvector.cpp(33): error C2092: 'opeartor' array element type cannot be function or abstract class type
+c:\users\s181358\builder\mathlab\mathlibrary\pipvector.cpp(52): fatal error C1903: unable to recover from previous error(s); stopping compilation
