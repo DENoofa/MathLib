@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  PipMatrice.cpp
+  PipVector.cpp
+  Generating Code...
+     Creating library C:\Users\Anzac\Documents\GitHub\MathLib\MathLab\x64\Debug\MathLibrary.lib and object C:\Users\Anzac\Documents\GitHub\MathLib\MathLab\x64\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\Anzac\Documents\GitHub\MathLib\MathLab\x64\Debug\MathLibrary.dll

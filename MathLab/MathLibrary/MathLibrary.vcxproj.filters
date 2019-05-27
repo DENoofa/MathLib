@@ -27,6 +27,9 @@
     <ClInclude Include="PipVector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PipMatrice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,6 +42,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PipVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PipMatrice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
